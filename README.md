@@ -1,6 +1,15 @@
 # Personal-Profolio
 This Web Developed By Using Bootstrap Template. And Also it modify using HTML,CSSPHP,Mysql &amp; etc...
 
+Instruction For Use
+Username : admin
+password : 123456
+
+Create Database as a "profolio" and import "127_0_0_1.sql" to that database enjoy
+__________________________________________________________
+This Only For Test .This Not a fully developed wedsite.
+__________________________________________________________
+
 ![Screenshot 2025-03-01 185730](https://github.com/user-attachments/assets/9895f708-f02d-4844-909e-e143a3db1d08)
 ![Screenshot 2025-03-01 185718](https://github.com/user-attachments/assets/afb72326-6a9e-4c1e-aa09-43968df77632)
 ![Screenshot 2025-03-01 185715](https://github.com/user-attachments/assets/a82ca691-e5c4-4ef3-995c-b2ea433c278a)
