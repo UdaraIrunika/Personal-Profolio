@@ -1,9 +1,28 @@
 # Personal-Profolio
+
+# 👋 Hi there, I'm D. Udara Irunika De Zoysa!
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GaNgEJuBY/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@uidd.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@UIDD_7PL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94764353012)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/d.udarairunikade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/udara-irunika-de-zoysa-770bb934a)
+
+## 🚀 About Me
+
+💻 Creative Developer & Designer passionate about crafting beautiful digital experiences  
+🎓 Currently expanding my knowledge in web development & Designing and Graphic Designing Connect with me : +94 764353012  
+🌱 Always learning and exploring new technologies from researching (SELF STUDING) & following
+
+________________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________________
+
 This Web Developed By Using Bootstrap Template. And Also it modify using HTML,CSSPHP,Mysql &amp; etc...
 
 Instruction For Use
 Username : admin &
-password : 123456
+Password : 123456
 
 Create Database as a "profolio" and import "127_0_0_1.sql" to that database enjoy
 __________________________________________________________
