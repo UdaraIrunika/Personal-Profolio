@@ -2,7 +2,7 @@
 This Web Developed By Using Bootstrap Template. And Also it modify using HTML,CSSPHP,Mysql &amp; etc...
 
 Instruction For Use
-Username : admin
+Username : admin &
 password : 123456
 
 Create Database as a "profolio" and import "127_0_0_1.sql" to that database enjoy
